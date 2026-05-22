@@ -1,4 +1,6 @@
-<img width="1913" height="1062" alt="image" src="https://github.com/user-attachments/assets/469b7908-2203-4a57-9eac-b5fce17684b7" /># Samuel Ashraf's artist gallery:
+# Samuel Ashraf's artist gallery:
+
+<img width="1913" height="1062" alt="image" src="https://github.com/user-attachments/assets/469b7908-2203-4a57-9eac-b5fce17684b7" />
 This is a website made for an artist named Samuel Ashraf, who is from Hurghada, and this website has a section above to go to the home section, about section, gallery section, contact, and visit us
 ### home section:
 contains some knowledge about him with an image and some little info, and two buttons for viewing his gallery, and contact via WhatsApp.
